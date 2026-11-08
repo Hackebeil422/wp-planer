@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Fremddokument (BWP-Leitfaden), nur lokal als Planungsgrundlage
+BWP_LF_Hydraulik_final_web.pdf
